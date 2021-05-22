@@ -1,6 +1,8 @@
+// // https://rustgym.com/leetcode/1
+
 use std::collections::HashMap;
 
-struct TwoSum;
+pub struct TwoSum;
 
 impl TwoSum {
     fn _check_input(nums: &Vec<i32>) {
